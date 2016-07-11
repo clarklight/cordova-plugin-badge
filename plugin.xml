@@ -24,7 +24,7 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
-        id="cordova-plugin-badge"
+        id="cordova-plugin-clark-badge"
         version="0.7.2">
 
     <name>Badges</name>
